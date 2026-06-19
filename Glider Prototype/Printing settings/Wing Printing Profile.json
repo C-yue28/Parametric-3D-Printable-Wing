@@ -1,0 +1,71 @@
+{
+    "brim_type": "outer_only",
+    "brim_width": "7.5",
+    "embedding_wall_into_infill": "1",
+    "enable_support": "1",
+    "from": "User",
+    "fuzzy_skin": "disabled_fuzzy",
+    "gap_infill_speed": [
+        "nil",
+        "30"
+    ],
+    "infill_wall_overlap": "8%",
+    "inherits": "0.08mm High Quality @BBL P2S",
+    "initial_layer_infill_speed": [
+        "50",
+        "50"
+    ],
+    "initial_layer_speed": [
+        "25",
+        "30"
+    ],
+    "inner_wall_speed": [
+        "70",
+        "100"
+    ],
+    "internal_solid_infill_speed": [
+        "90",
+        "120"
+    ],
+    "layer_height": "0.2",
+    "name": "Airfoil profile",
+    "outer_wall_speed": [
+        "30",
+        "50"
+    ],
+    "overhang_1_4_speed": [
+        "nil",
+        "40"
+    ],
+    "print_extruder_id": [
+        "1",
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "Airfoil profile",
+    "raft_layers": "2",
+    "reduce_crossing_wall": "1",
+    "reduce_infill_retraction": "0",
+    "seam_position": "back",
+    "skeleton_infill_density": "50%",
+    "skin_infill_density": "50%",
+    "skirt_loops": "4",
+    "sparse_infill_density": "50%",
+    "sparse_infill_speed": [
+        "90",
+        "100"
+    ],
+    "support_on_build_plate_only": "1",
+    "support_style": "tree_slim",
+    "top_shell_layers": "4",
+    "top_surface_density": "0%",
+    "travel_speed": [
+        "nil",
+        "450"
+    ],
+    "version": "2.5.0.14",
+    "wall_sequence": "outer wall/inner wall"
+}
