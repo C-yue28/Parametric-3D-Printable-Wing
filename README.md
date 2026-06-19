@@ -28,6 +28,7 @@ Source document:
 - Pin length - default 10 mm
 - Fillet radius - default 2 mm
 
-Optimized printing settings can be found in this repository, as well as a full log of all revisions of the parametric wing design
+### Printing/Revision notes
+Optimized printing settings specifically for the wing can be found under Glider Prototype/Printing settings; a full log of all revisions can be found under Glider Prototype/Revisions
 No LW-PLA is needed!
 For 3rd-party filaments, please tune settings as needed. Some filaments may not need retraction, may not need the special setting to move back only along walls, and may need higher temperatures. Please do not just rely on the settings I used.
